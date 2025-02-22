@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 Created with CodeSandbox
 
-This is a small tic-tac-toe game. 
+This is a small tic-tac-toe game, a small React app.
 
 It can be lanched in VSCode with extension CodeSandbox.
 
